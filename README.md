@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently studying: Multiplataform Software Development at Fatec Franca  |  Figma at "by my self"  |  AWS-based React.js Cloud Native Scholarship at Compass.Uol
-- 📫 How to reach me: cassiotakarada7@gmail.com or https://www.instagram.com/cassiotakarada/
+- 📫 How to reach me: cassiotakarada7@gmail.com or https://www.instagram.com/cassiotakarada/ or https://linktr.ee/cassiotakarada
 - 💞️ I’m looking to collaborate on clean codes and good softwares
 
 <!--
