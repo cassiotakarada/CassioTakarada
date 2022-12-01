@@ -1,7 +1,10 @@
 ## Hi! I'm Cassio Takarada 👋
 
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Multiplataform Software Development at Fatec Franca & Figma & Scholarship at Compass.Uol
+- 🌱 I’m currently studying:
+- 	& Multiplataform Software Development at Fatec Franca 
+- 	& Figma at "by my self"
+- 	& AWS-based React.js Cloud Native Scholarship at Compass.Uol
 - 📫 How to reach me: cassiotakarada7@gmail.com or https://www.instagram.com/cassiotakarada/
 - 💞️ I’m looking to collaborate on clean codes and good softwares
 
