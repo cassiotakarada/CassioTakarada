@@ -13,22 +13,16 @@
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<div align="left">
-	<img align="center" alt="Cassio-pic" height="80px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/1047678396924166247/1085696344301248522/Badge_-_Cloud_Economics_Accreditation_-_AWS_Course_Completion_Certificate_-_Cassio_Takarada.png">
-</div>
-<br>
-
 <div align="center">
   <a href="https://github.com/cassiotakarada">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cassiotakarada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiotakarada&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Cassio-pic" height="80px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/1047678396924166247/1085696344301248522/Badge_-_Cloud_Economics_Accreditation_-_AWS_Course_Completion_Certificate_-_Cassio_Takarada.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Cassio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1032352887893930095/penguin-252_512.gif">
 </div>
   
