@@ -13,6 +13,12 @@
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<div align="left">
+	<img align="center" alt="Cassio-pic" height="80px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/1047678396924166247/1085696344301248522/Badge_-_Cloud_Economics_Accreditation_-_AWS_Course_Completion_Certificate_-_Cassio_Takarada.png">
+</div>
+<br>
+
 <div align="center">
   <a href="https://github.com/cassiotakarada">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cassiotakarada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
