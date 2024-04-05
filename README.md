@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on at Compass.Uol as a Front-End Developer
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently studying: Multiplataform Software Development at Fatec Franca
-- 📫 How to reach me: cassiotakarada7@gmail.com or https://www.instagram.com/cassiotakarada/ or https://linktr.ee/cassiotakarada
+- 📫 How to reach me: cassiotakarada7@gmail.com or [Instagram](https://www.instagram.com/cassiotakarada/) or [LinkedIn](https://www.linkedin.com/in/cassiosilvatakarada7/)
 - 💞️ I’m looking to collaborate on clean codes and good softwares
 
 <!--
